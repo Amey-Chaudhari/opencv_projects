@@ -1,2 +1,2 @@
 # OpenCV Projects
-Simple to Advanced OpenCV projects
+Simple to Advanced OpenCV Projects
